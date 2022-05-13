@@ -1,4 +1,3 @@
-// Archivo Main.java
 import java.io.*;
 import analizador.*;
 import analizadorLexico.*;
