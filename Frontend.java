@@ -2,7 +2,7 @@
 import java.io.*;
 import analizador.*;
 import analizadorLexico.*;
-public class frontend{
+public class Frontend{
     public static void main(String[] args) throws IOException{
         System.out.printf(">");
         AnalizadorLexico lex = new AnalizadorLexico();

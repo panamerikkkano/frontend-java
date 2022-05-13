@@ -1,4 +1,4 @@
 #!/bin/bash
 
 find . -name "*.class" -type f -delete;
-javac FrontEnd.java && java FrontEnd
+javac Frontend.java && java Frontend
